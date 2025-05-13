@@ -5743,3 +5743,5 @@
 [√] Frame: 5758, Episode 08 https://facebook.com/122167802228517209
 [√] Frame: 5759, Episode 08 https://facebook.com/122167802474517209
 [√] Frame: 5760, Episode 08 https://facebook.com/122167803062517209
+[√] Frame: 5761, Episode 08 https://facebook.com/122167810190517209
+[√] Frame: 5762, Episode 08 https://facebook.com/122167810856517209
